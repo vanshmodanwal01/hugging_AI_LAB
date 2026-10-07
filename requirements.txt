@@ -1,0 +1,4 @@
+requests
+InferenceClient
+huggingface_hub
+python-dotenv
